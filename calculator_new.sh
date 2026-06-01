@@ -47,7 +47,7 @@ echo "2. Subtraction"
 echo "3. Multiplication"
 echo "4. Division"
 
-echo "Calculator script is running"
+#echo "Calculator script is running"
 
 read choice
 
